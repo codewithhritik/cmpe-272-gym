@@ -19,10 +19,10 @@
                     <a href="./about.html" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">About</a>
                     <a href="./services.html" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Services</a>
                     <a href="./news.html" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">News</a>
-                    <a href="./contact.html" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Contact</a>
+                    <a href="./contact.php" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Contact</a>
+                    <a href="./secure.php" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Secure</a>
                 </nav>
             </div>
-
         </div>
     </section>
 
