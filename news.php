@@ -8,23 +8,7 @@
 </head>
 <body>
     <!-- Navbar -->
-    <section class="w-full px-8 text-gray-700 bg-white">
-        <div class="container flex flex-col flex-wrap items-center justify-between py-5 mx-auto md:flex-row max-w-7xl">
-            <div class="relative flex flex-col md:flex-row">
-                <a href="./index.html" class="flex items-center mb-5 font-medium text-gray-900 lg:w-auto lg:items-center lg:justify-center md:mb-0">
-                    <span class="mx-auto text-xl font-black leading-none text-gray-900 select-none">FlexiFit<span class="text-indigo-600">.</span></span>
-                </a>
-                <nav class="flex flex-wrap items-center mb-5 text-base md:mb-0 md:pl-8 md:ml-8 md:border-l md:border-gray-200">
-                    <a href="./index.html" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Home</a>
-                    <a href="./about.html" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">About</a>
-                    <a href="./services.html" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Services</a>
-                    <a href="./news.html" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">News</a>
-                    <a href="./contact.php" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Contact</a>
-                    <a href="./secure.php" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Secure</a>
-                </nav>
-            </div>
-        </div>
-    </section>
+    <?php include 'navbar.php'; ?>
 
     <section class="box-border py-8 leading-7 text-gray-900 bg-white border-0 border-gray-200 border-solid sm:py-12 md:py-16 lg:py-24">
         <div class="box-border max-w-6xl px-4 pb-12 mx-auto border-solid sm:px-6 md:px-6 lg:px-4">
