@@ -11,6 +11,7 @@
                 <a href="./news.php" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">News</a>
                 <a href="./contact.php" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Contact</a>
                 <a href="./secure.php" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Secure</a>
+                <a href="./users.php" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Users</a>
             </nav>
         </div>
     </div>

@@ -11,7 +11,6 @@
     <?php include 'navbar.php'; ?>
 
     <!-- Last Visited Services -->
-    <!-- Last Visited Services -->
     <?php if (isset($_COOKIE['last_visited_services'])): ?>
         <section class="bg-gray-50 py-12">
             <div class="container mx-auto px-6">
