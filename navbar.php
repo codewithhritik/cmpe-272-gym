@@ -12,6 +12,7 @@
                 <a href="./contact.php" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Contact</a>
                 <a href="./secure.php" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Secure</a>
                 <a href="./users.php" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Users</a>
+                <a href="./allusers.php" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">All Users</a>
             </nav>
         </div>
     </div>
