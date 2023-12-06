@@ -1,3 +1,5 @@
+<?php include 'pageTracking.php'; ?>
+
 <?php
     $serviceTitle = "Weight Training";
     $serviceDescription = "Build strength and muscle through our comprehensive weight training program. We offer both free weights and machine-assisted exercises, focusing on proper form and technique to maximize results and minimize injury risk.";

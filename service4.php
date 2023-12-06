@@ -1,3 +1,5 @@
+<?php include 'pageTracking.php'; ?>
+
 <?php
     $serviceTitle = "Group Fitness Classes";
     $serviceDescription = "Energize your workout routine in a motivating group setting with diverse class options. Our classes range from high-intensity interval training (HIIT) and cycling to Zumba and dance, catering to all fitness levels in a fun, engaging, and social atmosphere.";

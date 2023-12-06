@@ -1,3 +1,5 @@
+<?php include 'pageTracking.php'; ?>
+
 <?php
     $serviceTitle = "Sports Therapy";
     $serviceDescription = "Our sports therapy sessions are focused on helping athletes of all levels recover from injuries and improve their performance. Through personalized treatment plans, we address specific needs to ensure a speedy and effective return to your sport.";

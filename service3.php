@@ -1,3 +1,5 @@
+<?php include 'pageTracking.php'; ?>
+
 <?php
     $serviceTitle = "Nutrition Plans";
     $serviceDescription = "Customized nutrition advice to complement your fitness regime. Our expert nutritionists will work with you to create a balanced diet plan, tailored to your individual health goals, dietary needs, and preferences, aiding in optimal health and performance.";

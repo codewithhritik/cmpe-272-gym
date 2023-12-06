@@ -1,3 +1,5 @@
+<?php include 'pageTracking.php'; ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

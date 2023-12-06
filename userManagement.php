@@ -1,3 +1,5 @@
+<?php include 'pageTracking.php'; ?>
+
 <?php
 $servername = "localhost";
 $username = "root";

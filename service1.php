@@ -1,3 +1,5 @@
+<?php include 'pageTracking.php'; ?>
+
 <?php
     $serviceTitle = "Yoga Classes";
     $serviceDescription = "Join our expert-led yoga sessions to improve flexibility, peace of mind, and overall well-being. Our classes cater to all levels, from beginners to advanced practitioners, ensuring a supportive and nurturing environment to enhance your yoga journey.";

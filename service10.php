@@ -1,3 +1,5 @@
+<?php include 'pageTracking.php'; ?>
+
 <?php
     $serviceTitle = "Pilates";
     $serviceDescription = "Discover the transformative power of Pilates in improving posture, flexibility, and core strength. Our Pilates classes, suitable for all fitness levels, focus on controlled movements and mindful breathing to enhance your physical and mental balance.";

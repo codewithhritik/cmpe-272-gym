@@ -1,3 +1,5 @@
+<?php include 'pageTracking.php'; ?>
+
 <?php
 // Set header to serve JSON content
 header('Content-Type: application/json');

@@ -1,3 +1,5 @@
+<?php include 'pageTracking.php'; ?>
+
 <?php
     $users = ["Hrithik Bagane", "Richard Sinn", "Alex Bington"];
     $loggedIn = false;

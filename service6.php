@@ -1,3 +1,5 @@
+<?php include 'pageTracking.php'; ?>
+
 <?php
     $serviceTitle = "Cardio Equipment";
     $serviceDescription = "Our gym features state-of-the-art cardio equipment, including treadmills, ellipticals, and stationary bikes, all designed to help you achieve your cardio fitness goals. Whether you're training for a marathon or just looking to stay fit, our equipment caters to all levels.";

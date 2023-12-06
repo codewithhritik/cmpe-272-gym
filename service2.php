@@ -1,3 +1,5 @@
+<?php include 'pageTracking.php'; ?>
+
 <?php
     $serviceTitle = "Personal Training";
     $serviceDescription = "Get personalized workout plans and one-on-one training sessions tailored to your fitness goals. Our experienced trainers are dedicated to helping you improve your physical strength, endurance, and overall health in a motivating and challenging environment.";

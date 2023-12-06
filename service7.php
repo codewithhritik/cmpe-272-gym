@@ -1,3 +1,5 @@
+<?php include 'pageTracking.php'; ?>
+
 <?php
     $serviceTitle = "Swimming Classes";
     $serviceDescription = "Offering swimming classes for all ages and levels in our state-of-the-art swimming facilities. Whether you're a beginner or an experienced swimmer looking to improve your technique, our certified instructors are here to guide you every stroke of the way.";

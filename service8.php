@@ -1,3 +1,5 @@
+<?php include 'pageTracking.php'; ?>
+
 <?php
     $serviceTitle = "Sauna/Steam Room";
     $serviceDescription = "Unwind and detoxify in our top-of-the-line sauna and steam rooms. The perfect way to relax muscles, alleviate stress, and promote a healthy detox, our facilities are designed to enhance your recovery and relaxation experience.";

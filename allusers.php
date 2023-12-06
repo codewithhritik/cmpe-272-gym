@@ -1,3 +1,5 @@
+<?php include 'pageTracking.php'; ?>
+
 <?php
 
 $remote_urls = [ 'https://peaceful-crag-29178-e57028cb57c2.herokuapp.com/users.php','https://playpal-77a0c2e5e469.herokuapp.com/users.php', 'http://hritik.us.to/cmpe-272-gym/users.php'];
